@@ -1,0 +1,6 @@
+# Salin file ini menjadi android/key.properties lalu isi dengan kredensial asli.
+# Path relatif dihitung dari direktori android/.
+storeFile=keystore/upload-keystore.p12
+storePassword=CHANGE_ME
+keyAlias=upload
+keyPassword=CHANGE_ME
